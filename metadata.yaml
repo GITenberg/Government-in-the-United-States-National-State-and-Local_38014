@@ -1,0 +1,38 @@
+_repo: Government-in-the-United-States-National-State-and-Local_38014
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garner, James Wilford
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '39196'
+    url: http://www.gutenberg.org/2009/agents/39196
+    wikipedia: http://en.wikipedia.org/wiki/James_Wilford_Garner
+description: ''
+gutenberg_issued: '2011-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38014'
+  lccn: '22008251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government'
+tableOfContents: 'Local government: towns, townships, and counties -- Local government,
+  continued: cities and villages -- The state governments -- The state legislature
+  -- The state executive -- The state judiciary -- Suffrage and elections -- Political
+  parties and nominating methods -- The establishment of the union -- The two houses
+  of Congress -- Organization and procedure of Congress -- Federal finance, taxation,
+  and money -- The regulation of commerce -- Other important powers of Congress --
+  The presidency: organization and mode of election -- The presidency, continued:
+  inauguration, powers and duties -- The cabinet and the executive departments --
+  The federal judiciary -- Government of the territories and dependencies -- Citizenship
+  -- Articles of Confederation -- Constitution of the United States.'
+title: Government in the United States, National, State and Local
+url: http://www.gutenberg.org/ebooks/38014
